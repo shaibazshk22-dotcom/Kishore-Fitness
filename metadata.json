@@ -1,0 +1,7 @@
+{
+  "name": "Personal Fitness Trainer Kishor - Mumbai",
+  "description": "Premium personal training services in Worli, Mumbai. Specializing in functional training, weight management, and strength development by K11 certified trainer Kishor.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
